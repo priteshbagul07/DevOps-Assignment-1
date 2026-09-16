@@ -9,4 +9,3 @@ Run:
 python app.py
 
 Student: Pritesh Bagul
-Revert Demo
