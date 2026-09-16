@@ -2,4 +2,10 @@
 
 Git Repository and Branch Management
 
+## Usage
+
+Run:
+
+python app.py
+
 Student: Pritesh Bagul
